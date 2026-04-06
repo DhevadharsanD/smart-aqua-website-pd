@@ -20,8 +20,8 @@ CLASS_NAMES = {
     0: 'cormorant',
     1: 'egret',
     2: 'heron',
-    3: 'tortoise',
-    4: 'snake',
+    3: 'snake',
+    4: 'tortoise',
     5: 'human intruder',
 }
 
